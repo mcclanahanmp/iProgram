@@ -1,6 +1,13 @@
-#Type example code here
+# New to programming or coding?
+# Here are some great resources if you're just getting started with Python:
+# Codecademy.com
+# Mimo (Interactive and Competitive App for beginners and experts)
+# Hackerrank.com
+# Youtube (Yes, just type Python in the search menu)
+
+# An example of Python 
 Print("Hello World!")
 
-#Note: Code found on iProgram is not always plug & play. 
-#There will almost always be an example "Script" that you'll need to 
-#modify in order to reflect your environment or make it your own.
+# Note: Code found on iProgram is not always plug & play. 
+# There will almost always be an example "Script" that you'll need to 
+# modify in order to reflect your environment or make it your own.
