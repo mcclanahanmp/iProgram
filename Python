@@ -1,1 +1,6 @@
 #Type example code here
+Print("Hello World!")
+
+#Note: Code found on iProgram is not always plug & play. 
+#There will almost always be an example "Script" that you'll need to 
+#modify in order to reflect your environment or make it your own.
